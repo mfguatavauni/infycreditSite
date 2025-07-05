@@ -205,14 +205,22 @@ microfinanciero y comercio.
             </li>
 
             <li>
-              <a
-                class="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75"
-                href="#"
-              >
+              <a class="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75" href="#">
                 Support
               </a>
             </li>
 
+            <li>
+              <a class="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75" href="/docs/PoliticaInfycredit.pdf" target="_blank" rel="noopener noreferrer">
+                Política de privacidad
+              </a>
+            </li>
+
+            <li>
+              <a class="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75" href="/docs/TerminosInfycredit.pdf" target="_blank" rel="noopener noreferrer">
+                Condiciones del servicio
+              </a>
+            </li>            
       
           </ul>
         </div>
