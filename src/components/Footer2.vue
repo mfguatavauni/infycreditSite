@@ -211,7 +211,7 @@ microfinanciero y comercio.
             </li>
 
             <li>
-              <a class="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75" href="/docs/PoliticaInfycredit.pdf" target="_blank" rel="noopener noreferrer">
+              <a class="text-gray-700 transition hover:text-gray-700/75 dark:text-white dark:hover:text-white/75" href="/docs/PoliticaInfycredit2025.pdf" target="_blank" rel="noopener noreferrer">
                 Política de privacidad
               </a>
             </li>
@@ -319,7 +319,7 @@ microfinanciero y comercio.
         </p>
 
         <p class="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0 dark:text-gray-400">
-          &copy; {{ year }} Infycredit. All rights reserved.
+          &copy; {{ year }} Infycredit 1.1. All rights reserved.
         </p>
       </div>
     </div>
